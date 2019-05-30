@@ -1,0 +1,131 @@
+{
+	"layout": {
+		"scale": 64,
+		"size": [49, 9],
+		"start": [1, 7.3],
+		"goal": [47,1, 2, 7]
+	},
+
+	"physics": {
+		"gravity": 1.5,
+		"terminal_velocity": 36
+	},
+
+	"music": "music-n-stuff/Second_level.WAV",
+
+	"background": {
+		"color": [0, 0, 0],
+		"image1": "assets/images/backgrounds/Sky1.png",
+		"image2": "assets/images/backgrounds/snow.png",
+		"parallax_speed1": 0.6,
+		"parallax_speed2": 0.3
+	},
+
+	"tiles": {
+		"midground": [
+			[47.8, 2, "FlagTop"],
+			[47.8, 3, "FlagPole"],
+			[47.8, 4, "FlagPole"],
+			[47.8, 5, "FlagPole"],
+			[47.8, 6, "FlagPole"],
+			[47.8, 7, "FlagPole"],
+			[3,4.05, "Frozen_pine"],
+			[5,4.05,"Snowman"]
+		],
+
+		"main": [
+			[0, 8, "Snow"],
+			[1, 8, "Snow"],
+			[2, 8, "Snow"],
+			[3, 8, "Snow"],
+			[4, 8, "Snow_curve1"],
+			
+			[11, 8, "Snow_curve2"],
+			[12, 8, "Snow"],
+			[13, 8, "Snow"],
+			[14, 8, "Snow"],
+			[15, 8, "Snow"],
+			[16, 8, "Snow"],
+			[17, 8, "Snow"],
+			[18, 8, "Snow"],
+			[19, 8, "Snow_curve1"],
+		
+			[24, 8, "Snow_curve2"],
+			[25, 8, "Snow"],
+			[26, 8, "Snow"],
+			[27, 8, "Snow"],
+			[28, 8, "Snow"],
+			[29, 8, "Snow"],
+			[30, 8, "Snow"],
+			[31, 8, "Snow"],
+			[32, 8, "Snow_curve1"],
+
+			[41, 8, "Snow_curve2"],
+			[42, 8, "Snow"],
+			[43, 8, "Snow"],
+			[44, 8, "Snow"],
+			[45, 8, "Snow"],
+			[46, 8, "Snow"],
+			[47, 8, "Snow"],
+			[48, 8, "Snow"],
+
+			[43, 7, "Snow_curve2"],
+			[44, 6, "Snow_curve2"],
+			[45, 5, "Snow_curve2"],
+			[46,4, "Snow_single"],
+
+			[44,7, "Snow_dirt"],
+			[45,7, "Snow_dirt"],
+			[46, 7, "Snow_dirt"],
+			[45,6, "Snow_dirt"],
+			[46,6, "Snow_dirt"],
+			[46,5, "Snow_dirt"],
+
+			[5, 5, "Platform"],
+			[6,5, "Platform"],
+			[7,3, "Platform"],
+			[8,3,"Platform"],
+			[16,5, "Platform"],
+			[22,6, "Platform"],
+			[30,3, "Platform"],
+			[31,3, "Platform"],
+			[32,3, "Platform"],
+			[34,6, "Platform"],
+			[36, 4, "Platform"],
+
+			[18,4.15, "Snow_pine"]
+			
+
+
+		],
+
+		"foreground": [
+			[24,4.15,"Snow_pine"]
+
+		]
+	},
+
+	"items": [
+		[8,2, "Cold_Fish"],
+		[7, 4, "Cold_Fish"],
+		[14, 6, "Cold_Fish"],
+		[16, 4, "Cold_Fish"],
+		[21, 5, "Cold_Fish"],
+		[30, 2, "Cold_Fish"],
+		[32,2, "Cold_Fish"],
+		[39,6, "Cold_Fish"],
+		[44,4, "Cold_Fish"],
+		[24,6, "Negative_Cat"]
+	],
+
+	"enemies": [
+		[6, 4, "BasicEnemy"],
+		[7,2,"BasicEnemy"],
+		[13,7, "PlatformEnemy"],
+		[15,7, "PlatformEnemy"],
+		[25,7, "PlatformEnemy"],
+		[27,7, "BasicEnemy"],
+		[29,7, "BasicEnemy"],
+		[31,2, "PlatformEnemy"]	
+	]
+}

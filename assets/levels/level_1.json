@@ -1,0 +1,138 @@
+{
+	"layout": {
+		"scale": 64,
+		"size": [49, 9],
+		"start": [1, 7.3],
+		"goal": [47,1, 2, 7]
+	},
+
+	"physics": {
+		"gravity": 1.5,
+		"terminal_velocity": 36
+	},
+
+	"music": "music-n-stuff/First_level.WAV",
+
+	"background": {
+		"color": [0, 0, 0],
+		"image1": "assets/images/backgrounds/Sky1.png",
+		"image2": "assets/images/backgrounds/Mountain_Range.png",
+		"parallax_speed1": 0.6,
+		"parallax_speed2": 0.3
+	},
+
+	"tiles": {
+		"midground": [
+			[47.8, 2, "FlagTop"],
+			[47.8, 3, "FlagPole"],
+			[47.8, 4, "FlagPole"],
+			[47.8, 5, "FlagPole"],
+			[47.8, 6, "FlagPole"],
+			[47.8, 7, "FlagPole"],
+			[31,7.5,"Bush"],
+			[39,4.05,"Pine_tree"]
+		],
+
+		"main": [
+			[0, 8, "Grass"],
+			[1, 8, "Grass"],
+			[2, 8, "Grass"],
+			[3, 8, "Grass"],
+			[4, 8, "Grass"],
+			[5, 8, "Grass"],
+			[6, 8, "Grass"],
+			[7, 8, "Grass_curve1"],
+			
+			[13, 8, "Grass_curve2"],
+			[14, 8, "Grass"],
+			[15, 8, "Grass_curve1"],
+			
+			[20, 8, "Grass_curve2"],
+			[21, 8, "Grass"],
+			[22, 8, "Grass_curve1"],
+			
+
+			
+			[30, 8, "Grass_curve2"],
+			[31, 8, "Grass"],
+			[32, 8, "Grass"],
+			[33, 8, "Grass"],
+			[34, 8, "Grass"],
+			[35, 8, "Grass"],
+			[36, 8, "Grass"],
+			[37, 8, "Grass"],
+			[38, 8, "Grass"],
+			[39, 8, "Grass"],
+			[40, 8, "Grass"],
+			[41, 8, "Grass"],
+			[42, 8, "Grass"],
+			[43, 8, "Grass"],
+			[44, 8, "Grass"],
+			[45, 8, "Grass"],
+			[46, 8, "Grass"],
+			[47, 8, "Grass"],
+			[48, 8, "Grass"],
+			[49, 8, "Grass"],
+			[50, 8, "Grass"],
+
+			[8, 3, "Platform"],
+			[9, 3, "Platform"],
+			[10, 3, "Platform"],
+			[11, 3, "Platform"],
+			[12, 3, "Platform"],
+
+			[16, 5, "Platform"],
+
+			[20, 5, "Platform"],
+			[20, 6, "Platform"],
+			[20, 7, "Platform"],
+
+			[26, 6, "Platform"],
+			
+			[29, 6, "Platform"],
+			[30, 6, "Platform"],
+			[31, 6, "Platform"],
+
+			[33, 4, "Platform"],
+			[34, 4, "Platform"],
+			[35, 4, "Platform"],
+
+			[42, 7, "Grass_curve2"],
+			[43, 6, "Grass_curve2"],
+			[44, 5, "Grass_curve2"],
+			[45, 4, "Grass_single"],
+			[43, 7, "Dirt"],
+			[44, 7, "Dirt"],
+			[45, 7, "Dirt"],
+			[44, 6, "Dirt"],
+			[45, 6, "Dirt"],
+			[45, 5, "Dirt"]
+
+		],
+
+		"foreground": [
+			[14,4.05,"Pine_tree"],
+			[34, 7, "Plant"]
+		]
+	},
+
+	"items": [
+		[10, 2, "Fish"],
+		[11, 5, "Fish"],
+		[20, 4, "Fish"],
+		[29, 5, "Fish"],
+		[34, 3, "Fish"],
+		[43,5, "Fish"],
+		[31,7.3, "Negative_Cat"]
+	],
+
+	"enemies": [
+		[11, 2.2, "BasicEnemy"],
+		[12,2, "PlatformEnemy"],
+		[34,3, "PlatformEnemy"],
+		[22,7, "PlatformEnemy"],
+		[32,7, "PlatformEnemy"]
+		
+		
+	]
+}

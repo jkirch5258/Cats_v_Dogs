@@ -1,0 +1,125 @@
+{
+	"layout": {
+		"scale": 64,
+		"size": [49, 9],
+		"start": [1, 7.3],
+		"goal": [47,1, 2, 7]
+	},
+
+	"physics": {
+		"gravity": 1.5,
+		"terminal_velocity": 36
+	},
+
+	"music": "music-n-stuff/Third_level.ogg",
+
+	"background": {
+		"color": [0, 0, 0],
+		"image1": "assets/images/backgrounds/Sky1.png",
+		"image2": "assets/images/backgrounds/rock.png",
+		"parallax_speed1": 0.6,
+		"parallax_speed2": 0.3
+	},
+
+	"tiles": {
+		"midground": [
+			[47.8, 2, "FlagTop"],
+			[47.8, 3, "FlagPole"],
+			[47.8, 4, "FlagPole"],
+			[47.8, 5, "FlagPole"],
+			[47.8, 6, "FlagPole"],
+			[47.8, 7, "FlagPole"],
+			[39,4.05,"Desert_pine"]
+			
+		],
+
+		"main": [
+			[0, 8, "Sand"],
+			[1, 8, "Sand"],
+			[2, 8, "Sand"],
+			[3, 8, "Sand"],
+			[4, 8, "Sand"],
+			[5, 8, "Sand"],
+
+			[6, 8, "Sand_curve1"],
+			
+			[10, 8, "Sand_curve2"],
+			[11, 8, "Sand"],
+			[12, 8, "Sand"],
+			[13, 8, "Sand"],
+			[14, 8, "Sand"],
+			[15, 8, "Sand"],
+			[16, 8, "Sand"],
+			[17, 8, "Sand"],
+			[18, 8, "Sand_curve1"],
+			
+			[23, 8, "Sand_curve2"],
+			[24, 8, "Sand"],
+			[25, 8, "Sand"],
+			[26, 8, "Sand"],
+			[27, 8, "Sand"],
+			[28, 8, "Sand"],
+			[29, 8, "Sand"],
+			[30, 8, "Sand"],
+			[31, 8, "Sand"],
+			[32, 8, "Sand"],
+			[33, 8, "Sand"],
+			[34, 8, "Sand"],
+			[35, 8, "Sand_curve1"],
+			
+			[40, 8, "Sand_curve2"],
+			[41, 8, "Sand"],
+			[42, 8, "Sand"],
+			[43, 8, "Sand"],
+			[44, 8, "Sand"],
+			[45, 8, "Sand"],
+			[46, 8, "Sand"],
+			[47, 8, "Sand"],
+			[48, 8, "Sand"],
+
+			[5,6, "Sand_curve2"],
+			[6,6, "Sand"],
+			[7,6, "Sand"],
+			[8,6, "Sand_curve1"],
+			[9,7, "Sand_curve1"],
+			
+			[15, 7, "Sand_curve2"],
+			[16, 6, "Sand_curve2"],
+			[17, 5, "Sand_curve2"],
+			[18, 4, "Sand_single"],
+
+			[0, 3, "Platform"],
+			[1, 3, "Platform"],
+			[2, 3, "Platform"],
+			[38,6, "Platform"],
+
+			[45, 5, "Sand_dirt"]
+
+		],
+
+		"foreground": [
+			[4,7,"Sand_curve2"],
+			[16,7,"Sand_dirt"],
+			[17,7,"Sand_dirt"],
+			[18,7,"Sand_dirt"],
+			[17,6,"Sand_dirt"],
+			[18,6,"Sand_dirt"],
+			[18,5,"Sand_dirt"],
+			[7,2.20,"Dead_tree"],
+			[34, 7, "Plant"]
+		]
+	},
+
+	"items": [
+		[10, 2, "Fish"],
+		[11, 5, "Fish"],
+		[20, 4, "Fish"],
+		[29, 5, "Fish"],
+		[34, 3, "Fish"]
+	],
+
+	"enemies": [
+		[11, 2.2, "BasicEnemy"]
+		
+	]
+}
