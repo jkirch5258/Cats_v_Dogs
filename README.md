@@ -2,13 +2,19 @@
 
 In Cats vs Dogs, you play as a tiny little cat whose main goal is to explore the world. Unfortunately, the dogs keep getting in the way of your special vacation. Traverse all kinds of terrain, including lush forests, snowy mountain ranges, dry deserts, and even alien planets!
 
-## Instructions
+## Gameplay
+
+### Instructions
 
 Left Arrow Key: Move left
 
 Right Arrow Key: Move right
 
 Space: Jump
+
+### Scoring:
+
+You can score points for collecting fish in each level. While the look of the fish may change, ***each fish is only worth 20 points.***
 
 ## Sprites
 
@@ -21,13 +27,13 @@ Cat:
 ![Cat_fall](/assets/images/characters/hero/cat_fall.png)
 ![Cat_hurt](/assets/images/characters/hero/cat_hurt.png)
 
-This is the main character. You play as this cat right here.
+This is the main character. You play as this cat. 13/10, very soft.
 
 Zombie Cat:
 
 ![Zombie_cat](/assets/images/characters/enemy/zombie_cat.png)
 
-WARNING: DO NOT TOUCH!!
+WARNING: DO NOT TOUCH!! -999/10, would not interact.
 
 Labrador Retriever:
 
@@ -36,7 +42,7 @@ Labrador Retriever:
 ![Dog_1_walk_2](/assets/images/characters/enemy/dog_walk_2.png)
 ![Dog_1_fall](/assets/images/characters/enemy/dog_fall.png)
 
-The 'dumb' enemy. They will fall off of platforms, and even off of cliffs. 
+The 'dumb' enemy. They will fall off of platforms, and even off of cliffs. 12/10, we still love them.
 
 Dalmation:
 
@@ -44,7 +50,7 @@ Dalmation:
 ![Dog_2_walk_1](/assets/images/characters/enemy/dog_2_walk_1.png)
 ![Dog_2_walk_2](/assets/images/characters/enemy/dog_2_walk_2.png)
 
-The 'smart' enemy. They will not fall off of any platforms. Be wary.
+The 'smart' enemy. They will not fall off of any platforms. Be wary. 14/10, smart boye.
 
 ## Screenshots
 First Screen:
