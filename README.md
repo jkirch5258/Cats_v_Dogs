@@ -21,9 +21,13 @@ Cat:
 ![Cat_fall](/assets/images/characters/hero/cat_fall.png)
 ![Cat_hurt](/assets/images/characters/hero/cat_hurt.png)
 
+This is the main character. You play as this cat right here.
+
 Zombie Cat:
 
 ![Zombie_cat](/assets/images/characters/enemy/zombie_cat.png)
+
+WARNING: DO NOT TOUCH!!
 
 Labrador Retriever:
 
@@ -32,16 +36,27 @@ Labrador Retriever:
 ![Dog_1_walk_2](/assets/images/characters/enemy/dog_walk_2.png)
 ![Dog_1_fall](/assets/images/characters/enemy/dog_fall.png)
 
+The 'dumb' enemy. They will fall off of platforms, and even off of cliffs. 
+
 Dalmation:
 
 ![Dog_2](/assets/images/characters/enemy/dog_2.png)
 ![Dog_2_walk_1](/assets/images/characters/enemy/dog_2_walk_1.png)
 ![Dog_2_walk_2](/assets/images/characters/enemy/dog_2_walk_2.png)
 
+The 'smart' enemy. They will not fall off of any platforms. Be wary.
+
 ## Screenshots
+First Screen:
 
 ![Main](/Screen_Shots/splash_screen_screenshot.PNG)
+
+Level One:
+
 ![One](/Screen_Shots/level_one_screenshot.PNG)
+
+Level Two:
+
 ![Two](/Screen_Shots/level_two_screenshot.PNG)
 
 ## Credits
