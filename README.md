@@ -34,6 +34,12 @@ Dalmation:
 ![Dog_2_walk_1](/assets/images/characters/enemy/dog_2_walk_1.png)
 ![Dog_2_walk_2](/assets/images/characters/enemy/dog_2_walk_2.png)
 
+## Screenshots
+
+![Main](/Screen_Shots/splash_screen_screenshot.PNG)
+![One](/Screen_Shots/level_one_screenshot.PNG)
+![Two](/Screen_Shots/level_two_screenshot.PNG)
+
 ## Credits
 
 ### Music:
