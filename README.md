@@ -59,6 +59,10 @@ Level Two:
 
 ![Two](/Screen_Shots/level_two_screenshot.PNG)
 
+Gameplay:
+
+![Gameplay](/Screen_Shots/gameplay_screenshot.PNG)
+
 ## Credits
 
 ### Music:
