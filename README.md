@@ -21,6 +21,10 @@ Cat:
 ![Cat_fall](/assets/images/characters/hero/cat_fall.png)
 ![Cat_hurt](/assets/images/characters/hero/cat_hurt.png)
 
+Zombie Cat:
+
+![Zombie_cat](/assets/images/characters/enemy/zombie_cat.png)
+
 Labrador Retriever:
 
 ![Dog_1](/assets/images/characters/enemy/dog.png)
