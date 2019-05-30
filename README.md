@@ -18,6 +18,8 @@ You can score points for collecting fish in each level. While the look of the fi
 
 While playing, avoid touching the dogs, as they will make you lose health. ***If you lose three health, you lose one life. You start with three lives.*** Basically you have nine lives. Fitting for a cat.
 
+Each level is built differently, but they are all relatively short.
+
 ## Sprites
 
 Cat:
