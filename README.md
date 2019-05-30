@@ -4,7 +4,7 @@ In Cats vs Dogs, you play as a tiny little cat whose main goal is to explore the
 
 ## Gameplay
 
-### Instructions
+### Instructions:
 
 Left Arrow Key: Move left
 
@@ -12,9 +12,11 @@ Right Arrow Key: Move right
 
 Space: Jump
 
-### Scoring:
+### Scoring/Playing:
 
 You can score points for collecting fish in each level. While the look of the fish may change, ***each fish is only worth 20 points.***
+
+While playing, avoid touching the dogs, as they will make you lose health. ***If you lose three health, you lose one life. You start with three lives.*** Basically you have nine lives. Fitting for a cat.
 
 ## Sprites
 
