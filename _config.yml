@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Cats vs Dogs!
 description: The classic rivalry.
+show_downloads: True
