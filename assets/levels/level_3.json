@@ -29,8 +29,7 @@
 			[47.8, 5, "FlagPole"],
 			[47.8, 6, "FlagPole"],
 			[47.8, 7, "FlagPole"],
-			[39,4.05,"Desert_pine"]
-			
+			[40,4.05,"Desert_pine"]
 		],
 
 		"main": [
@@ -40,10 +39,14 @@
 			[3, 8, "Sand"],
 			[4, 8, "Sand"],
 			[5, 8, "Sand"],
-
+			[5, 6, "Sand_curve2"],
 			[6, 8, "Sand_curve1"],
+			[6,6, "Sand"],
+			[7,6, "Sand"],
+			[8,6, "Sand_curve1"],
+			[9,7, "Sand_curve1"],
 			
-			[10, 8, "Sand_curve2"],
+			[10, 8, "Sand"],
 			[11, 8, "Sand"],
 			[12, 8, "Sand"],
 			[13, 8, "Sand"],
@@ -51,7 +54,11 @@
 			[15, 8, "Sand"],
 			[16, 8, "Sand"],
 			[17, 8, "Sand"],
-			[18, 8, "Sand_curve1"],
+			[15, 7, "Sand_curve2"],
+			[16, 6, "Sand_curve2"],
+			[17, 5, "Sand_curve2"],
+			[18, 4, "Sand_curve2"],
+			[18, 8, "Sand"],
 			
 			[23, 8, "Sand_curve2"],
 			[24, 8, "Sand"],
@@ -59,6 +66,10 @@
 			[26, 8, "Sand"],
 			[27, 8, "Sand"],
 			[28, 8, "Sand"],
+			[25, 4, "Sand"],
+			[26, 4, "Sand"],
+			[27, 4, "Sand"],
+			[28, 4, "Sand"],
 			[29, 8, "Sand"],
 			[30, 8, "Sand"],
 			[31, 8, "Sand"],
@@ -76,50 +87,96 @@
 			[46, 8, "Sand"],
 			[47, 8, "Sand"],
 			[48, 8, "Sand"],
+			[33, 4.05, "Desert_pine"],
 
-			[5,6, "Sand_curve2"],
-			[6,6, "Sand"],
-			[7,6, "Sand"],
-			[8,6, "Sand_curve1"],
-			[9,7, "Sand_curve1"],
+
 			
-			[15, 7, "Sand_curve2"],
-			[16, 6, "Sand_curve2"],
-			[17, 5, "Sand_curve2"],
-			[18, 4, "Sand_single"],
-
 			[0, 3, "Platform"],
 			[1, 3, "Platform"],
 			[2, 3, "Platform"],
-			[38,6, "Platform"],
+			[38, 6, "Platform"],
+			[31, 5, "Platform"],
 
-			[45, 5, "Sand_dirt"]
+
+			[44, 5, "Sand_curve2"],
+			[45, 4, "Sand_single"],
+			[43, 7, "Sand_dirt"],
+			[44, 7, "Sand_dirt"],
+			[45, 7, "Sand_dirt"],
+			[44, 6, "Sand_dirt"],
+			[45, 6, "Sand_dirt"],
+			[45, 5, "Sand_dirt"],
+			[44, 6, "Sand_dirt"],
+			[45, 4, "Sand_dirt"]
+			
 
 		],
 
 		"foreground": [
-			[4,7,"Sand_curve2"],
-			[16,7,"Sand_dirt"],
-			[17,7,"Sand_dirt"],
-			[18,7,"Sand_dirt"],
-			[17,6,"Sand_dirt"],
-			[18,6,"Sand_dirt"],
-			[18,5,"Sand_dirt"],
-			[7,2.20,"Dead_tree"],
+			[16, 7, "Sand_dirt"],
+			[17, 7, "Sand_dirt"],
+			[18, 7, "Sand_dirt"],
+			[17, 6, "Sand_dirt"],
+			[18, 6, "Sand_dirt"],
+			[18, 5, "Sand_dirt"],
+			[25, 7, "Sand_dirt"],
+			[26, 7, "Sand_dirt"],
+			[27, 7, "Sand_dirt"],
+			[28, 7, "Sand_dirt"],
+			[25, 6, "Sand_dirt"],
+			[26, 6, "Sand_dirt"],
+			[27, 6, "Sand_dirt"],
+			[28, 6, "Sand_dirt"],
+			[25, 5, "Sand_dirt"],
+			[26, 5, "Sand_dirt"],
+			[27, 5, "Sand_dirt"],
+			[28, 5, "Sand_dirt"],
+			[43, 7, "Sand_dirt"],
+			[44, 7, "Sand_dirt"],
+			[45, 7, "Sand_dirt"],
+			[43, 6, "Sand_dirt"],
+			[45, 6, "Sand_dirt"],
+			[43, 5, "Sand_dirt"],
+			[44, 5, "Sand_dirt"],
+			[43, 4, "Sand_dirt"],
+			[44, 4, "Sand_dirt"],
+			[45, 4, "Sand_dirt"],
+			[4,7, "Sand_curve2"],
+			[7,2.2,"Dead_tree"],
 			[34, 7, "Plant"]
 		]
 	},
 
 	"items": [
-		[10, 2, "Fish"],
-		[11, 5, "Fish"],
-		[20, 4, "Fish"],
-		[29, 5, "Fish"],
-		[34, 3, "Fish"]
+		[0, 2, "Desert_Fish"],
+		[6, 7, "Desert_Fish"],
+		[14, 7, "Desert_Fish"],
+		[17, 7, "Desert_Fish"],
+		[17, 6, "Desert_Fish"],
+		[26, 7, "Desert_Fish"],
+		[27, 7, "Desert_Fish"],
+		[26, 6, "Desert_Fish"],
+		[44, 5, "Desert_Fish"],
+		[45, 4, "Desert_Fish"],
+		[46, 3, "Desert_Fish"],
+		[5, 7.3, "Negative_Cat"],
+		[16, 7.3, "Negative_Cat"],
+		[33, 3.3, "Negative_Cat"]
+		
+
+		
 	],
 
 	"enemies": [
-		[11, 2.2, "BasicEnemy"]
+		[6, 5.2, "PlatformEnemy"],
+		[11, 7.2, "BasicEnemy"],
+		[12, 7.2, "BasicEnemy"],
+		[13, 7.2, "BasicEnemy"],
+		[14, 7.2, "PlatformEnemy"],
+		[26, 3.2, "PlatformEnemy"],
+		[29, 7.2, "PlatformEnemy"]
 		
-	]
+			
+
+]
 }
