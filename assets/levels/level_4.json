@@ -11,7 +11,7 @@
 		"terminal_velocity": 36
 	},
 
-	"music": "music-n-stuff/Space_level.WAV",
+	"music": "music-n-stuff/Space_level.ogg",
 
 	"background": {
 		"color": [0, 0, 0],
@@ -29,9 +29,7 @@
 			[47.8, 4, "FlagPole"],
 			[47.8, 5, "FlagPole"],
 			[47.8, 6, "FlagPole"],
-			[47.8, 7, "FlagPole"],
-			[31,7.5,"Bush"],
-			[39,4.05,"Desert_pine"]
+			[47.8, 7, "FlagPole"]
 		],
 
 		"main": [
@@ -63,16 +61,9 @@
 			[36, 8, "Planet"],
 			[37, 8, "Planet"],
 			[38, 8, "Planet"],
-			[39, 8, "Planet"],
-			[40, 8, "Planet"],
-			[41, 8, "Planet"],
-			[42, 8, "Planet"],
-			[43, 8, "Planet"],
-			[44, 8, "Planet"],
-			[45, 8, "Planet"],
-			[46, 8, "Planet"],
-			[47, 8, "Planet"],
-			[48, 8, "Planet"],
+			[39, 8, "Planet_curve1"],
+			
+			[48, 8, "Planet_curve2"],
 			[49, 8, "Planet"],
 			[50, 8, "Planet"],
 
@@ -94,9 +85,7 @@
 			[30, 6, "Platform"],
 			[31, 6, "Platform"],
 
-			[33, 4, "Platform"],
-			[34, 4, "Platform"],
-			[35, 4, "Platform"],
+		
 
 			[42, 7, "Planet_curve2"],
 			[43, 6, "Planet_curve2"],
@@ -118,15 +107,15 @@
 	},
 
 	"items": [
-		[10, 2, "Fish"],
-		[11, 5, "Fish"],
-		[20, 4, "Fish"],
-		[29, 5, "Fish"],
-		[34, 3, "Fish"]
+		[10, 2, "Alien_Fish"],
+		[11, 5, "Alien_Fish"],
+		[20, 4, "Alien_Fish"],
+		[29, 5, "Alien_Fish"],
+		[34, 3, "Alien_Fish"]
 	],
 
 	"enemies": [
-		[11, 2.2, "BasicEnemy"]
+		[11, 2.2, "PlatformEnemy"]
 		
 	]
 }
