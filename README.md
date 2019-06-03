@@ -3,6 +3,9 @@
 In Cats vs Dogs, you play as a tiny little cat whose main goal is to explore the world. Unfortunately, the dogs keep getting in the way of your special vacation. Traverse all kinds of terrain, including lush forests, snowy mountain ranges, dry deserts, and even alien planets!
 
 ## Gameplay
+### Download Now:
+https://github.com/jkirch5258/Cats_v_Dogs/releases/download/Cats_vs_Dogs/cats_vs_dogs.exe
+
 
 ### Instructions:
 
